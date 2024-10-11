@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import "../Components/Styles/Landing.css"
-import UpComing from "./UpComing";
+// import UpComing from "./UpComing";
 // import Footer from "./Footer";
 function Landing() {
     useEffect(() => {
